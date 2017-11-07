@@ -1,6 +1,1 @@
-# The-Final-Program-of-Introduction-to-robotic-vision
-<br>It's the final program of introduction to robot, using the toolbox of rvctools via peter corke. This program aims to determine the camera's pose changing from to picture.\<br>
-<br>Before you running this program, you should have downloaded toolbox from http://petercorke.com/wordpress/.\<br>
-<br>This progame is editting and debuging under Matlab R2014a. Any version older than it might meet some unpredictable errors.\<br>
-
-<br>Yushu Wu 2017.11.07 \<br>
+<div style="font-size: medium;"># The-Final-Program-of-Introduction-to-robotic-vision</div><div style="font-size: medium;">It's the final program of introduction to robot, using the toolbox of rvctools via peter corke. This program aims to determine the camera's pose changing from to picture.</div><div style="font-size: medium;">Before you running this program, you should have downloaded toolbox from http://petercorke.com/wordpress/.</div><div style="font-size: medium;">This program is editing and debugging under Matlab R2014a. Any version older than it might meet some unpredictable errors.</div><div style="font-size: medium;"><br></div><div style="font-size: medium;">Yushu Wu 2017.11.07&nbsp;</div>
