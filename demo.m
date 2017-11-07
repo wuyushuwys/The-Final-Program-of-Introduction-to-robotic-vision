@@ -13,6 +13,8 @@ if(~exist('cameraParams','var'))
     % detecting the IntrinsicMatrix of camera
     % this process could be very slow, if your calib pictures are very large.
     calib_loading;
+else
+    clc;
 end
 
 % Loading the two images and resize them
