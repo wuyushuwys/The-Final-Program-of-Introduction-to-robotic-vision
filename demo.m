@@ -4,12 +4,16 @@
 
 
 % % =================================================================================
-% initial
-clc;clear all;
+% % Checking previous work, if IntrinsicMatrix has been calculated then
+% jump into next step
+if(~exist('cameraParams','var'))
+    % initial
+    clc;clear all;
 
-% detecting the IntrinsicMatrix of camera
-% this process could be very slow, if your calib pictures are very large.
-calib_loading;
+    % detecting the IntrinsicMatrix of camera
+    % this process could be very slow, if your calib pictures are very large.
+    calib_loading;
+end
 
 % Loading the two images and resize them
 im1 = imread( 'position_1.jpg');
